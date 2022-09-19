@@ -4,7 +4,7 @@ const icons = document.querySelectorAll('.entry__icon');
 
 // Base URL and API Key for OpenWeatherMap API
 const baseURL = 'http://api.openweathermap.org/data/2.5/weather?zip=';
-const apiKey = '&appid=5beb43e13dc3fa8be428191e6e50a00c';
+const apiKey = '&appid=e024755f0cb823ebc12ae3b235e7149e';
 
 //Get the date
 let d = new Date();
